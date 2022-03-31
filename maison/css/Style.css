@@ -1,0 +1,56 @@
+body {
+  background: url("/imagens/binarios.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: 90% 1%;
+  background-attachment: fixed;
+}
+
+h1 {
+  text-align: center;
+  font-size: 75px;
+  color: rgb(230, 232, 240);
+  font-family: serif;
+  text-shadow: 2px 3px 5px white;
+}
+hr {
+  width: 50%;
+  height: 10px;
+  background: white;
+}
+.linha {
+  background: white;
+}
+p {
+  width: 50%;
+  text-align: justify;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: x-large;
+  color: white;
+}
+#foto1 {
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+.video1 {
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+a {
+  text-decoration: none;
+  color: orange;
+  font-weight: 900;
+}
+a:hover {
+  color: aqua;
+  text-decoration: underline;
+}
+
+.textorodape {
+  text-align: center;
+}

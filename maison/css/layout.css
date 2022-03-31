@@ -1,0 +1,28 @@
+body {
+  background: url("/imagens/background03.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+h1 {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: 60px;
+  text-align: center;
+  color: #10356c;
+}
+hr {
+  height: 15px;
+  background-color: #020a28;
+  width: 60%;
+  border: none;
+}
+.div {
+  height: 50%;
+  background-color: #d6effb;
+  width: 60%;
+  margin: 40px auto 0 auto;
+  padding: 15px;
+  border-radius: 20px 20px 0px 0px;
+  border: 2px solid #c03a2b;
+}
